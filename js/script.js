@@ -1,1 +1,1 @@
-console.log("buenas buenas");
+console.log("buenas buenas alumnos como estan");
